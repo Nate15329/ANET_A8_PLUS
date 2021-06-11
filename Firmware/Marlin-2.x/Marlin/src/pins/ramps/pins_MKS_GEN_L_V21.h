@@ -56,7 +56,7 @@
 #endif
 
 //#ifndef E1_CS_PIN
-  //#define E1_CS_PIN                           12
+//#define E1_CS_PIN                           12
 //#endif
 #ifndef Z2_CS_PIN
   #define Z2_CS_PIN                           12
